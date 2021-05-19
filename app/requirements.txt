@@ -1,0 +1,6 @@
+virtualenv
+Flask
+mysql-connector-python
+sqlalchemy
+PyMySQL
+pymysql
