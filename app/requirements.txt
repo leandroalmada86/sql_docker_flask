@@ -4,3 +4,5 @@ mysql-connector-python
 sqlalchemy
 PyMySQL
 pymysql
+cryptography
+flask-serialize
